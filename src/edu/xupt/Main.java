@@ -11,5 +11,6 @@ package edu.xupt;
 public class Main {
     public static void main(String[] args) {
         System.out.println("测试git使用的主函数");
+        System.out.println("第一次修改程序");
     }
 }
